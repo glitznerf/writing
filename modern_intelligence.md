@@ -28,7 +28,7 @@ This situation of a connected community is interesting for the matter of intelli
 One could say that the above futurism is dystopic from the point of view that we will need less traditional education, not learn languages the same way and that we will rely on technology for everything. I argue that this would in no way lead to a less intellectual life from an individual's perspective, but rather a radical shift of intelligence usage. Fluid intelligence would be radically even more important than it already is now to adapt to change and new technologies and to understand them, as well as abstraction skills to understand the problems you have on a high level, break them into primitive problems, use analogies from similar problems instead of knowing the exact answer and using abstract frameworks to draw conclusions on concrete problems, and lastly creativity to come up with new technology and use cases to increase productivity, efficiency, and the good life.  
 
 ## Further Reading
-[What Neuroscience says about intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341646/)
+[What Neuroscience says about intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341646/)  
 [Interesting read about the I in AI](https://arxiv.org/ftp/arxiv/papers/1610/1610.07862.pdf)  
 *Superintelligence: Paths, Dangers, Strategies - Nick Bostrom*  
 [Neuralink's Brain-Computer Interface](https://neuralink.com/)  
