@@ -4,9 +4,9 @@ Writing often helps collecting the many ideas and thoughts floating around when 
 
 ## Directory
 
-- (Focus and Productivity)[https://github.com/glitznerf/writing/blob/main/focus.md]: About the importance of true focus, everyday strategies for focus and productivity, and what I believe makes a happy and satisfying life.  
+- [Focus and Productivity](https://github.com/glitznerf/writing/blob/main/focus.md) : About the importance of true focus, everyday strategies for focus and productivity, and what I believe makes a happy and satisfying life.  
 
-- (Modern Intelligence)[https://github.com/glitznerf/writing/blob/main/modern_intelligence.md]: An exploration of the fascinating topic of intelligence and some thoughts on the impact of technology on intelligence, collective intelligence, distributed intelligent systems, brain-computer interfaces and the future of human intelligence.
+- [Modern Intelligence](https://github.com/glitznerf/writing/blob/main/modern_intelligence.md) : An exploration of the fascinating topic of intelligence and some thoughts on the impact of technology on intelligence, collective intelligence, distributed intelligent systems, brain-computer interfaces and the future of human intelligence.
 
 ## Reach Out
 
